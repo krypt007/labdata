@@ -1,5 +1,5 @@
 {
-    "data": [
+    "transactions": [
         {
             "id": 1,
             "txid": "OFR6AV9JG6", 
@@ -57,7 +57,7 @@
             "date": "16/6/20 at 7:09 PM"
         }
     ],
-    "category": [
-    {}
-    ]
+    "profile": {
+        "name": "typicode"
+  }
 }
