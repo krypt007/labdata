@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "txid": "OFR6AV9JG6", 
+        "amount": "Ksh1,000.00",
+        "description": "sent to SAMUEL  073205634868",
+        "date": "27/6/20 at 8:33 PM"
+    },
+    {
+        "id": 2,
+        "txid": "OFR4APAA4K", 
+        "amount": "Ksh5.00", 
+        "description": "sent to safaricom account v3r8qom ",
+        "date": "27/6/20 at 6:31 PM"
+    },
+    {
+        "id": 3,
+        "txid": "OFQ49C00RG", 
+        "amount": "Ksh1,000.00", 
+        "description": "paid to NJEMAKI SERVICE.",
+        "date": "26/6/20 at 12:24 PM"
+    },
+    {
+        "id": 4,
+        "txid": "OFO27ZOX58", 
+        "amount": "Ksh6,000.00", 
+        "description": "sent to SUSAN 027202741108",
+        "date": "24/6/20 at 7:45 PM"
+    },
+    {
+        "id": 5,
+        "txid": "OFM568RGQH", 
+        "amount": "Ksh50.00", 
+        "description": "sent to VERVE  for account CHP254745470789",
+        "date": "22/6/20 at 8:40 PM"
+    },
+    {
+        "id": 6,
+        "txid": "OFJ12QVGHT", 
+        "amount": "Ksh380.00", 
+        "description": "paid to WAKULIMA DAIRY LTD 21.",
+        "date": "19/6/20 at 8:54 AM"
+    },
+    {
+        "id": 7,
+        "txid": "OFH71ACRIT", 
+        "amount": "Ksh70,000.00", 
+        "description": "sent to Bank for account 01040004767955",
+        "date": "17/6/20 at 4:10 PM"
+    },
+    {
+        "id": 8,
+        "txid": "OFG2ZLD1QG", 
+        "amount": "Ksh1,425.00", 
+        "description": "paid to CARREFOUR TRM 12.",
+        "date": "16/6/20 at 7:09 PM"
+    }
+]
